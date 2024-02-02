@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.first-page-bg-container{
+    background-image: url("https://img.freepik.com/free-vector/online-wishes-list-concept-illustration_114360-3900.jpg?w=900&t=st=1706015913~exp=1706016513~hmac=41ffb8b6644c4b829b05e48bb98efca3a6f143579b5aeb39e73b52d7c61e7ecc");
+    background-size: cover;
+    height: 100vh;
+}
+.first-page-card{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 8px;
+
+}
+.first-page-heading{
+    font-family:"Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+
+}
+.first-page-para{
+    color: black;
+    font-family:"Roboto";
+    font-size: 15px;
+    
+}
+.button1{
+    border-radius: 15px;
+    border-width: 0px;
+    padding: 20px;
+    background-color: aqua;
+font-weight: bold;
+}
+
+.fav-shopping-bg-container{
+    background-image: url("https://img.freepik.com/free-psd/shopping-vertical-background_23-2150409471.jpg?w=740&t=st=1706012136~exp=1706012736~hmac=942dedd74de26f7e0b4930691127afe42fcf7afc0beeb80a92ee656f58e1a9b0");
+    background-size: cover;
+    height: 100vh;
+}
+.fav-shopping-heading{
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 34px;
+    font-style: italic;
+    padding: 22px;
+}
+.fav-shopping-card{
+    background-color: aliceblue;
+    padding: 12px;
+    border-radius: 22px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin: 10px;
+
+}
+.fav-shopping-shirts{
+    font-family: "roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+.shirt-image{
+    height: 160px;
+}
+.button2{
+    margin: 11px;
+    border-radius: 12px;
+    border-width: 0px;
+    padding: 8px;
+    font-weight: bold;
+
+}
+
+thirdpage-bg-container{
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-shopping-pattern-design_23-2149628702.jpg?w=900&t=st=1706022471~exp=1706023071~hmac=d7562265eb3432beb8a717df04557b09e4da3e4942eba7393bf3764aba220c6d");
+    background-size: cover;
+    height: 100vh;
+}
+.thirdpage-main-heading{
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 25px;
+    
+}
+.thirdpage-card{
+    background-color:black;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 9px;
+    color: white;
+}
+.button3{
+    color:white;
+    border-radius: 8px;
+    border-width: 0px;
+    margin: 15px;
+    padding: 12px;
+    background-color: black;
+    width: 80px;
+    font-weight: bold;
+}
+.thirdpage-bg-container{
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-shopping-pattern-design_23-2149628702.jpg?w=900&t=st=1706022471~exp=1706023071~hmac=d7562265eb3432beb8a717df04557b09e4da3e4942eba7393bf3764aba220c6d");
+    background-size: cover;
+    height: 100vh;
+}
+.thirdpage-main-heading{
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 25px;
+    
+}
+.thirdpage-card{
+    background-color:black;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 9px;
+    color: white;
+}
+.button4{
+    color:white;
+    border-radius: 8px;
+    border-width: 0px;
+    margin: 15px;
+    padding: 12px;
+    background-color: black;
+    width: 80px;
+    font-weight: bold;
+}
+
+.thirdpage-bg-container{
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-shopping-pattern-design_23-2149628702.jpg?w=900&t=st=1706022471~exp=1706023071~hmac=d7562265eb3432beb8a717df04557b09e4da3e4942eba7393bf3764aba220c6d");
+    background-size: cover;
+    height: 100vh;
+}
+.thirdpage-main-heading{
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 25px;
+    
+}
+.thirdpage-card{
+    background-color:black;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 9px;
+    color: white;
+}
+.button5{
+    color:white;
+    border-radius: 8px;
+    border-width: 0px;
+    margin: 15px;
+    padding: 12px;
+    background-color: black;
+    width: 80px;
+    font-weight: bold;
+}
