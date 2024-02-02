@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/top-view-meals-tasty-yummy-different-pastries-dishes-brown-surface_140725-14554.jpg?w=740&t=st=1705909045~exp=1705909645~hmac=a49bf1c14fc96b48e93e4af1b1d2bc98046f7df9a670feaa2d9fd2c587e9bd06");
+    background-size: cover;
+    height: 100vh;
+}
+
+.food-card {
+    background-color: #b0793e;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 20px;
+}
+
+.main-heading {
+    color: #323f4b;
+    font-family: "Bree Serif";
+    font-weight: bold;
+}
+
+.para {
+    color: #323f4b;
+    font-family: "Bree Serif";
+    font-weight: bold;
+}
+
+.button {
+
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 8px;
+    width: 100px;
+    font-weight: bold;
+
+
+}
